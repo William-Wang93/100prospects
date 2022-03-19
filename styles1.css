@@ -866,7 +866,7 @@ td:hover{
 
 /***Player Stat Divs***/
 
-@media all and (max-width: 1300px){
+@media all and (max-width: 1200px){
   .stickymenu{
     display: none;
 
